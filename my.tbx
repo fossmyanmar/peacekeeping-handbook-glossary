@@ -44,7 +44,87 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>humanitarian assistance</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term></term></tig></langSet>
+                <langSet xml:lang="my"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Action</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဆောင်ရွက်ချက် /လုပ်ဆောင်ချက်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Communications</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဆက်သွယ်ရေးများ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>information</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>သတင်းအချက်အလက်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Advocacy</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လှုံ့ဆော်မှု</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>conflict</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ပဋိပက္ခ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local media</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဒေသခံမီဒီယာ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>UN entities</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂအဖွဲ့အစည်းများ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local and international media</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ပြည်တွင်းနှင့်နိုင်ငံတကာမီဒီယာ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>ethnic conflict</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>တိုင်းရင်းသားပဋိပက္ခ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local political complexities</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဒေသတွင်း နိုင်ငံရေးရှုပ်ထွေးမှုများ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Security Council</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လုံခြုံရေးကောင်စီ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Secretary-General</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>အတွင်းရေးမှူးချုပ်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>local political developments</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဒေသတွင်း နိုင်ငံရေးဖွံ့ဖြိုးတိုးတက်မှု</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>UNAMSIL</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>Sierra Leone ရှိကုလသမဂ္ဂမစ်ရှင်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>SRSG</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>အတွင်းရေးမှူးချုပ်၏အထူးကိုယ်စားလှယ်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>independent media</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လွတ်လပ်သော မီဒီယာ / အမှီအခိုကင်းသော မီဒီယာ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>data management</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဒေတာစီမံခန့်ခွဲမှု</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>humanitarian information</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လူသားချင်းစာနာထောက်ထားမှုဆိုင်ရာ သတင်းအချက်အလက်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>donor relations</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>အလှူရှင် ဆက်ဆံရေး</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Peacekeeping Operation</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှုလုပ်ငန်းစဉ်</term></tig></langSet>
             </termEntry>
         </body>
     </text>
