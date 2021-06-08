@@ -14,6 +14,30 @@
                 <langSet xml:lang="en"><tig><term>Human Rights</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>လူသားချင်းစာနာထောက်ထားမှု</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>2</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>၂</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>3</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>၃</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>1</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>၁</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>United Nations</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ကုလသမ္မဂ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The Special Representative of the Secretary-General</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>အထွေထွေအတွင်းရေးမှူးချုပ်၏အထူးကိုယ်စားလှယ်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Civil Affairs</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ပြည်တွင်းအရေးများ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
