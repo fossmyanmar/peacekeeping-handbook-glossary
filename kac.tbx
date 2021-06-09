@@ -12,30 +12,62 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>1</term></tig></langSet>
-                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2</term></tig></langSet>
-                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>3</term></tig></langSet>
-                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>humanitarian assistance</term></tig></langSet>
-                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>United Nations</term></tig></langSet>
-                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Civil Affairs</term></tig></langSet>
-                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>corporal</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The World Bank in Post-Conflict Reconstruction</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Handbook</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Multidimensional Peacekeeping Operations</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Peacekeeping</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gender Mainstreaming</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Operations</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Security and Safety of Staff</term></tig></langSet>
+                <langSet xml:lang="kac"><tig><term></term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Practice Unit</term></tig></langSet>
                 <langSet xml:lang="kac"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
