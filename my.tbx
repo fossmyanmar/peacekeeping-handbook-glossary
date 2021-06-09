@@ -166,6 +166,10 @@
                 <langSet xml:lang="en"><tig><term>Police, Judiciary and Corrections Aspects of Rule of Law</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ရဲ၊ တရားရေးနှင့် ဥပဒေစိုးမိုးရေးအတွက်ပြင်ဆင်ချက်များ</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>UN</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
