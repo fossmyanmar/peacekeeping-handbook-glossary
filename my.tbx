@@ -12,7 +12,7 @@
         <body>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Human Rights</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>လူ့အခွင့်အရေးများ</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လူ့အခွင့်အရေး</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>2</term></tig></langSet>
@@ -100,11 +100,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UNAMSIL</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>UNAMSIL</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>UNAMSIL(Sierra Leone ရှိကုလသမဂ္ဂမစ်ရှင်)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SRSG</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>SRSG</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>SRSG (အတွင်းရေးမှူးချုပ်၏အထူးကိုယ်စားလှယ်)</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>independent media</term></tig></langSet>
@@ -120,11 +120,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>donor relations</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>အလှူရှင် ဆက်ဆံရေး</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>အလှူရှင်နှင့်ဆက်နွယ်မှု</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Peacekeeping Operation</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှုလုပ်ငန်းစဉ်</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဉ်</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Handbook</term></tig></langSet>
@@ -132,11 +132,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Multidimensional Peacekeeping Operations</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>ဘက်စုံငြိမ်းချမ်းရေးလုပ်ဆောင်ခြင်း လုပ်ငန်းစဥ်</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဘက်စုံငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်းလုပ်ငန်းစဥ်</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>The World Bank in Post-Conflict Reconstruction</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>ကမ္ဘာ့ဘဏ်၏ပဋိပက္ခအပြီး ပြန်လည်တည်ဆောက်ခြင်း</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ပဋိပက္ခအပြီး ပြန်လည်ထောင်ရေးလုပ်ငန်းစဉ်အတွင်း ကမ္ဘာ့ဘဏ်</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Peacekeeping</term></tig></langSet>
@@ -148,7 +148,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Gender Mainstreaming</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>လိင်ကွဲပြားမှုအခြေပြု</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ကျား/မ ခေတ်ရေစီးကြောင်း</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Security and Safety of Staff</term></tig></langSet>
