@@ -126,6 +126,34 @@
                 <langSet xml:lang="en"><tig><term>Peacekeeping Operation</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ငြိမ်းချမ်းရေး ထိန်းသိမ်းမှုလုပ်ငန်းစဉ်</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Handbook</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လက်စွဲ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Multidimensional Peacekeeping Operations</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဘက်စုံငြိမ်းချမ်းရေးလုပ်ဆောင်ခြင်း လုပ်ငန်းစဥ်</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>The World Bank in Post-Conflict Reconstruction</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ကမ္ဘာ့ဘဏ်၏ ပဠိပက္ခအပြီးပြန်လည်တည်ဆောက်ခြင်း</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Peacekeeping</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ငြိမ်းချမ်းရေးထိန်းသိမ်းခြင်း</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Operations</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လုပ်ငန်းစဥ်များ</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Gender Mainstreaming</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လိင်ကွဲပြားမှုအခြေပြု</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Security and Safety of Staff</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>၀န်ထမ်းလုံခြုံရေးနှင့် အကာအကွယ်</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
