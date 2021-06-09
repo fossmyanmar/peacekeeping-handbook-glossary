@@ -154,6 +154,10 @@
                 <langSet xml:lang="en"><tig><term>Security and Safety of Staff</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>၀န်ထမ်းလုံခြုံရေးနှင့် အကာအကွယ်</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Best Practice Unit</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>အကောင်းဆုံး လုပ်ထုံးလုပ်နည်းအဖွဲ့</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
