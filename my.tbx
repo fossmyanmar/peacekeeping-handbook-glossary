@@ -72,7 +72,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UN entities</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂအဖွဲ့အစည်းများ</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂလက်အောက်ခံအဖွဲ့အစည်းများ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local and international media</term></tig></langSet>
@@ -80,7 +80,7 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>ethnic conflict</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>တိုင်းရင်းသားပဋိပက္ခ</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လူမျိုးရေးပဋိပက္ခ</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>local political complexities</term></tig></langSet>
@@ -100,11 +100,11 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>UNAMSIL</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>Sierra Leone ရှိကုလသမဂ္ဂမစ်ရှင်</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>UNAMSIL</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>SRSG</term></tig></langSet>
-                <langSet xml:lang="my"><tig><term>အတွင်းရေးမှူးချုပ်၏အထူးကိုယ်စားလှယ်</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>SRSG</term></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>independent media</term></tig></langSet>
