@@ -166,6 +166,10 @@
                 <langSet xml:lang="en"><tig><term>UN</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂ</term></tig></langSet>
             </termEntry>
+            <termEntry id="public information">
+                <langSet xml:lang="en"><tig><term>public information</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>အများပြည်သူဆိုင်ရာ သတင်းအချက်အလက်</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
