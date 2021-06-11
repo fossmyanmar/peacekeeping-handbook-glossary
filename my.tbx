@@ -186,6 +186,10 @@
                 <langSet xml:lang="en"><tig><term>Antipersonnel Mine Ban Treaty</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>လူသတ်မိုင်းတားဆီးပိတ်ပင်ရေးစာချုပ်</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Deployment</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဖြန့်ကျက်ခြင်း</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
