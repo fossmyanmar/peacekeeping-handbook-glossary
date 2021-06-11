@@ -178,6 +178,10 @@
                 <langSet xml:lang="en"><tig><term>peace</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ငြိမ်းချမ်းရေး</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>anti-personnel landmines</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>လူသတ်မြေမြှပ်မိုင်းများ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
