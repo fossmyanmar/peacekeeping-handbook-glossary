@@ -194,6 +194,10 @@
                 <langSet xml:lang="en"><tig><term>resident coordinator</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ဌာနေစေ့စပ်ညှိနှိုင်းရေးမှုး</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Structure</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ဖွဲ့စည်းတည်ဆောက်ပုံ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
