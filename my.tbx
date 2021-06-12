@@ -198,6 +198,14 @@
                 <langSet xml:lang="en"><tig><term>Structure</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ဖွဲ့စည်းတည်ဆောက်ပုံ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Introduction</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>နိဒါန်း</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Conclusion</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>နိဂုံးချုပ်</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
