@@ -80,10 +80,14 @@
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Introduction</term></tig></langSet>
-                <langSet xml:lang="shn"><tig><term></term></tig></langSet>
+                <langSet xml:lang="shn"><tig><term/></tig></langSet>
             </termEntry>
             <termEntry>
                 <langSet xml:lang="en"><tig><term>Conclusion</term></tig></langSet>
+                <langSet xml:lang="shn"><tig><term/></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Challenges</term></tig></langSet>
                 <langSet xml:lang="shn"><tig><term></term></tig></langSet>
             </termEntry>
         </body>
