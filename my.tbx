@@ -214,6 +214,10 @@
                 <langSet xml:lang="en"><tig><term>the UN Charter</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂပဋိညာဥ်</term></tig></langSet>
             </termEntry>
+            <termEntry id="1">
+                <langSet xml:lang="en"><tig><term>the UN Charter</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ပဋိညာဥ်</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
