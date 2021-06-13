@@ -210,6 +210,10 @@
                 <langSet xml:lang="en"><tig><term>Challenges</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>စိန်ခေါ်မှုများ</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>the UN Charter</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂပဋိညာ်</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
