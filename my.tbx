@@ -206,6 +206,10 @@
                 <langSet xml:lang="en"><tig><term>Conclusion</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>နိဂုံးချုပ်</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Challenges</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>စိန်ခေါ်မှုများ</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
