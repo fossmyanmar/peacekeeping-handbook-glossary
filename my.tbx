@@ -218,6 +218,10 @@
                 <langSet xml:lang="en"><tig><term>the UN Charter</term></tig></langSet>
                 <langSet xml:lang="my"><tig><term>ကုလသမဂ္ဂပဋိညာဥ်</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>education</term></tig></langSet>
+                <langSet xml:lang="my"><tig><term>ပညာရေး</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
